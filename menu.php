@@ -1,4 +1,4 @@
-<ul class="nav justify-content-center">
+<ul class="nav nav-tabs justify-content-center">
     <li class="nav-item">
         <a class="nav-link active" href="#">Главная</a>
     </li>
@@ -9,7 +9,6 @@
         <a class="nav-link" href="#">Контакты</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link disabled" href="#">Войти</a>
-        
+        <a class="nav-link disabled" href="#">Disabled</a>
     </li>
 </ul>
