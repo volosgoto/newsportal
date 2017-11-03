@@ -28,14 +28,17 @@
 <body>
  <div class="container-fluid">
      <div class="row">
-         <div class="col-md-12"><p>Хедер</p></div>
+         <div class="col-md-12"><p>
+             <p>
+                 <?php require_once 'menu.php'?>
+             </p>
+         </div>
      </div>
      <div class="row">
          <div class="col-md-12">
              <p>
-                 <?php require_once 'menu.php'?>
-
-                 </p>
+                 <?php // Карусель ?>
+             </p>
          </div>
      </div>
      <div class="row">
